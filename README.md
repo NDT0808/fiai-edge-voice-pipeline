@@ -1,4 +1,3 @@
-# fiai-edge-voice-pipeline
 # Giải Pháp Luồng Voice-to-Voice (Push-to-Talk) Trên Môi Trường CPU ARM (Raspberry Pi 5)
 
 Dự án này trình bày thiết kế kiến trúc hệ thống tương tác giọng nói offline (Local 100%) tối ưu hóa cho thiết bị nhúng phục vụ dự án robot hình người.

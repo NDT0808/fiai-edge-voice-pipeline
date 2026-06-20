@@ -20,4 +20,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Lệnh khởi chạy hệ thống lắng nghe sự kiện
-CMD ["python", "main.py"]
+CMD ["python", "src/pipeline.py"]

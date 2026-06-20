@@ -1,0 +1,3 @@
+numpy>=1.23.0
+# Lưu ý: Các thư viện backend như whisper.cpp (bindings) hoặc sherpa-onnx 
+# sẽ được biên dịch trực tiếp từ mã nguồn hoặc cài đặt qua file wheel tương thích ARM64.
